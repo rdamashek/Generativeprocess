@@ -63,4 +63,5 @@ The cloned folder was also empty
 - Click Install
 - In the community plugins tab scroll down and click the switch to turn on "Obsidian git"
 - Set preferences in the plugins settings
-- 
+
+- Authorise git for obsidian when it makes the first backup
