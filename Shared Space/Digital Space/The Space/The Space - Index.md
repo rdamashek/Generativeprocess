@@ -92,7 +92,7 @@
 	- [[Seed Space]]
 
 ##### [[Money Index]]
-- [[GENSEQ - Why Money? Index]]
+- [[GENSEQ - Why Money Index]]
 	- [[Physical Needs]]
 	- [[Barn Raising]]
 	- [[Parallel Worlds]]
