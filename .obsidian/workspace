@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Shared Space/Digital Space/The Space/Money/GENSEQ - How Money?/GENSEQ - How Money Index.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Shared Space/Digital Space/The Space/Money/GENSEQ - How Money?/GENSEQ - How Money Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Shared Space/Digital Space/The Space/Money/GENSEQ - How Money?/GENSEQ - How Money Index.md"
               }
             }
           }
@@ -106,6 +106,8 @@
   },
   "active": "2be6bfbaf33fc264",
   "lastOpenFiles": [
+    "Shared Space/Digital Space/The Space/Money/GENSEQ - How Money?/GENSEQ - How Money Index.md",
+    "README.md",
     "Shared Space/Digital Space/Untitled.md",
     "Shared Space/Digital Space/Digital Space Index.md",
     "assets/Untitled.md",
@@ -113,8 +115,6 @@
     "Shared Space/Digital Space/The Space/The Space - Index.md",
     "Shared Space/Shared Space Index.md",
     "Personal Spaces/Ronen/Ronens (metagen) Index.md",
-    "Personal Spaces/Ronen/Metagen/GENSEQ - Sequence Lifecycle/Aspiration.md",
-    "Personal Spaces/Ronen/Metagen/GENSEQ - Sequence Lifecycle/Sequence Lifecycle Index.md",
-    "Shared Space/Digital Space/Context/GENSEQ - Context Index.md"
+    "Personal Spaces/Ronen/Metagen/GENSEQ - Sequence Lifecycle/Aspiration.md"
   ]
 }
