@@ -100,7 +100,7 @@
 	- [[Resonance]]
 	- [[Returning Flow]]
 	- [[Other Flows]]
-- [[GENSEQ - How Money Index]]
+- [[How Money Index]]
 	- [[Softly]]
 	- [[Tension]]
 	- [[Relationship]]

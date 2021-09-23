@@ -1,4 +1,4 @@
-# Index - How Money
+# GENSEQ - How Money Index
 
 [[Softly]]
 [[Tension]]
