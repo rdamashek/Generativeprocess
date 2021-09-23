@@ -1,0 +1,3 @@
+# Asymmetry of Value
+
+A value agreement, as a collection of value objects, will usually arrive at asymmetrical giving. One party may be giving more and the other receiving more. In the example of a theory (teaching) activity, the facilitator brings more giving to the value agreement and the participants bring more receiving. Payments are mechanisms for addressing the asymmetry and restoring a sense of giving-symmetry to value agreements.

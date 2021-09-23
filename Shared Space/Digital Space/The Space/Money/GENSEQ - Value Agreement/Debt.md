@@ -1,0 +1,3 @@
+# Debt
+
+If the parties agree to convert the investment into debt, the open value agreement is marked as debt and leaves the agreement open to further interactions. Debt is not, in this context, an implicit expectation for repayment. Debt is, in this context, an indication that a relationship has formed between the giver and the receiver. The value agreement serves as an indicator of this debt, an indicator of their relationship.

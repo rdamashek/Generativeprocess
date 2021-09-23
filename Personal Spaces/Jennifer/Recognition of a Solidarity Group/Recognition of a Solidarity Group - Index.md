@@ -1,0 +1,14 @@
+# Recognition of a Solidarity Group - Index
+
+[[Intention]]
+[[Shared power]]
+[[Basic needs]]
+[[Resource sharing]]
+[[Tending to wholeness]]
+[[Shared work]]
+[[Conflict]]
+[[New members]]
+[[Leaving members]]
+[[Solidarity]]
+[[Solidarity Group]]
+[[Qualities]]

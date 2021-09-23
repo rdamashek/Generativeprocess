@@ -1,0 +1,3 @@
+# Containers of Knowlege
+
+Human knowledge can be presented through generative sequences. Consider a Japanese Origami folded paper figure. It is nearly impossible to describe what an actual Origami figure looks like. However it takes a finite, repeatable and shareable sequence of operations to reliably and predictably generate the figure. Viewed in this way, generative sequences can be understood as knowledge containers. Traditional crafts are often collections of generative sequences. Mastery is an embodied experience of generative sequences.

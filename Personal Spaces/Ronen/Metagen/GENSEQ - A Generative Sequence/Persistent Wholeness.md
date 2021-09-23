@@ -1,0 +1,3 @@
+# Persistent Wholeness
+
+A spring bud is always whole. Every time you look at it, it is in a different state of wholeness. it is never in a temporary state of disassembly. There are never parts that come together. Similarly, anything that comes into being through a generative sequence is always whole. You can stop at any time in an Origami folding sequence and you will always hold in your hand a whole thing. Persistent wholeness is a distinguishing feature of generative sequences. Consider this as you continue through this very sequence. Stop and reflect on the sense of wholeness at any given step. Then witness how the next transformation effects that sense of wholeness.

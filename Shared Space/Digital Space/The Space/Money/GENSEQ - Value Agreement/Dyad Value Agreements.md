@@ -1,0 +1,3 @@
+# Dyad Value Agreements
+
+Value agreements can be created between two people. In the example of a theory activity that encompasses one Gardener and numerous participants, there will be numerous dyad value agreement between the Gardener and each of the participants. The structure of the value agreement may be formed collectively using a shared set of value-objects. However, there will be an explicit value agreement between the facilitator and each of the participants. These are dyad value agreement.

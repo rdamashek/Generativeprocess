@@ -1,0 +1,3 @@
+# Proposal Queue
+
+Proposed transformations are collected in a proposal queue. New proposals are added to the end of the queue. The queue becomes a container of mature transformations that collaborators feel can enhance and increase the wholeness of the shared generative sequence. A long queue may indicate that the shared generative process is diverging and still not mature. A short queue may indicate that the shared generative process is converging and maturing.

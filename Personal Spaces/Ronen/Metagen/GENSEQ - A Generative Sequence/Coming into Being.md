@@ -1,0 +1,4 @@
+
+# Coming into Being
+
+Coming into being is the way nature operates. A flower bud in spring goes through a continuous sequence of transformations. Any time you look at it, the bud is whole. Every time you look at it, the bud is transformed. It changes from the inside out. It becomes increasingly refined, more and more whole. Every single bud on a tree goes through the same sequence of transformations. However, every bud is on a different place in the tree and exists in a unique context. Some are more exposed to light, others more exposed to wind. Some grow on old branches, some new, some low, some high. Therefore, the same sequence of transformations that guides a bud into being leads to diverse and unique buds, flowers and fruits.

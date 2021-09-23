@@ -1,0 +1,3 @@
+# Investment - value agreement
+
+An investment is born when payments are not able to achieve a giving-symmetry within an open value agreement. This serves as an indicator that the giver has made an investment in the receiver. What becomes of the investment depends on both the giver and the receiver. The giver can offer the investment as either a gift or a debt. The received can also ask for the investment to be either a gift or a debt. Both parties need to agree on the form of the investment.

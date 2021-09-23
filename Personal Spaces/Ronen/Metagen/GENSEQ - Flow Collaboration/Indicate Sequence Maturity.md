@@ -1,0 +1,3 @@
+# Indicate Sequence Maturity
+
+A collaborator can indicate to other collaborators that parts of the generative sequence feels mature and should be treated with care. The sequence maturity indicator is placed between two transformations. it indicates that the transformations in their current sequence belong together. Numerous sequence maturity indicators can be used to indicate that a group of transformations belong together in sequence. Collaborators are still free to change the order of transformations in the sequence, but interactive cues are provided to indicate when changes can effect the sequence maturity indicators.

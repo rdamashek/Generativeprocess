@@ -1,0 +1,3 @@
+# Declaring Value Objects
+
+The parties involved in creating a value agreement begin by declaring value objects. When I add a value-object to an agreement I indicate if it is, for me, a giving or a receiving. Typically (but not necessarily), a Gardener will seed a value agreement by describing her offerings as giving value-objects. When a potential participant reviews an offering he makes value assessments. For each value-object he asks himself “is this valuable to me?” As a participant he indicates which of the facilitator’s givings he values and wishes to receive. He can also choose to add additional value-objects and indicate, for each, if it is something he is receiving or giving. Through repeated iterations of declaring value objects, a value agreement is formed.

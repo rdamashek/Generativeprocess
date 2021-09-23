@@ -1,0 +1,3 @@
+# Collective Value Agreement
+
+Separate dyad value agreements can implicitly form a collective value agreement. A Gardener can choose to make a collective value agreement explicit. A collective value agreement enables explicit value coordination within a group. It allows for a collective awareness of value-objects within the group. This collective awareness can expand the vocabulary (what can be expressed and what is expressed) of value-objects.

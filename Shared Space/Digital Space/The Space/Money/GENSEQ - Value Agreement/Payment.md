@@ -1,0 +1,3 @@
+# Payment
+
+A Payment is a way to tend to an asymmetry in a value agreement. A payment is initiated by the party that is experiencing more receiving within a value agreement. A payment is an act of giving from the receiving party to the giving party. Payment can take on many forms. It can be a gift. It can be a transfer of money. It can be work. A payment can be anything that the giving party within a value agreement is willing to receive. Numerous payments and numerous forms of payment can be used to effect the asymmetry of a value agreement. can be combined in an effort to create a giving-symmetry. When payments are not generate symmetry within a value agreement, Investments are formed.

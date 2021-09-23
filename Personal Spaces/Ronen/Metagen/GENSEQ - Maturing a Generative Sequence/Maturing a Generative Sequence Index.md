@@ -1,0 +1,16 @@
+# Maturing a Generative Sequence - Structural Index
+
+[[Sequence Operation]]
+[[Add Transformation]]
+[[Move Transformation]]
+[[Remove Transformation]]
+[[Modify Transformation]]
+[[Save Transformation Version]]
+[[Visit Saved Transformation Versions]]
+[[Restore Transformation Versions]]
+[[Spawn Sequence]]
+[[Add Transformation Note]]
+[[Link to Sequence]]
+[[Split Transformation]]
+[[Merge Transformations]]
+[[Indicate Completeness]]

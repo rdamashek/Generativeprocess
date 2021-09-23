@@ -1,0 +1,16 @@
+# GENSEQ - Value Agreement Index
+
+[[Price]]
+[[Value Agreement]]
+[[Giving and Receiving]]
+[[Experienced Value]]
+[[Value Objects]]
+[[Declaring Value Objects]]
+[[Dyad Value Agreements]]
+[[Collective Value Agreement]]
+[[Asymmetry of Value]]
+[[Open Value Agreement]]
+[[Payment]]
+[[Investment - value agreement]]
+[[Gift]]
+[[Debt]]

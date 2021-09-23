@@ -1,0 +1,3 @@
+# Value Objects
+
+A value agreement is made up of explicitly expressed value objects. Value objects are objects that I value. If, for example, I am a Gardener facilitating a theory activity I may sense a potential for numerous value objects associated with my offerings. I may value objects like my time, my knowledge, my teaching method, my ability to hold a safe space for people. All of these are value-objects.

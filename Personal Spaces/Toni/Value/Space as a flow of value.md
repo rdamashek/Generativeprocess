@@ -1,0 +1,2 @@
+# Space as a flow of value
+What makes a space being inhabited is a continuous exchange of value through a set of roles. What we call “space” can be seen as a set of roles and their interactions by which value is exchanged.
