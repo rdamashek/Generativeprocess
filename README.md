@@ -46,8 +46,21 @@ fatal: unable to checkout working tree
 warning: Clone succeeded, but checkout failed.
 ```
 The cloned folder was also empty
-
+... it was because of question marks
 - `dir` for pc list contents
-
 %%
 
+- Open up Obsidian
+- In the left ribbon click "Open another vault"
+- "Open folder as vault"
+- Select the vault you just downloaded
+
+
+- In the left hand ribbon select "Settings" > "Community Plugins"
+- Turn off safe mode
+- Click browse
+- Search for "Obsidian Git"
+- Click Install
+- In the community plugins tab scroll down and click the switch to turn on "Obsidian git"
+- Set preferences in the plugins settings
+- 
