@@ -36,13 +36,20 @@ This guide was written based on the Windows installer as it was the use case we 
 - Experimental options: None.
 - Select install to finish the installation. 
 
-#### Using Git to download files
-- Open up a "Shell":
-	- On Windows this is called a command prompt. You can do this by typing "Command Prompt" into the search bar. 
-	- On Mac this is called the terminal. It can be found in the following directory : apps>utilities>terminal (or by seraching "Terminal" in )
-
+#### Using Git and Github to download files
+Assuming that you have a Github account as instructed in the General section please go to
 - On Github find the button in the top right corner named "Fork" and click it.
 	- If asked about repository or branch select repository
+
+
+- Open up a "Shell":
+	- On Windows this is called a command prompt. You can do this by typing "Command Prompt" into the search bar. 
+	- On Mac this is called the terminal. It can be found in the following directory : apps>utilities>terminal (or by seraching "Terminal" in Spotlight)
+- Leave this running in the background. You'll use it a bit later.
+
+
+
+
 - Now go to the repo on your personal page 
 - Find the green "code" button
 - Copy the address
