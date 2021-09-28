@@ -72,6 +72,10 @@ Assuming that you have a Github account as instructed in the General section ple
 - Click Install
 - Exit back a step to the "settings" home page (or just enter the settings page again)
 - Click the title "Community Plugins" and you'll now see "Obsidian Git" installed. Turn the switch on and you'll see it listed as a title option under the header of "Plugin options" on the left of the window. 
-- Set up your backup preferences. 2 min is a good number. 
+- Set up your backup preferences. Most options can be ignored but:
+	- 2 min is a good number for auto pull and backup options. 
+	- Pull updates on startup: on
+	- Pull changes before push: on
+	- Disable notifications: on (otherwise you get a pop up every )
 
 - Authorise git for obsidian when it makes the first backup
