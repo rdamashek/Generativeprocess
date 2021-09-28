@@ -43,12 +43,12 @@ Assuming that you have a Github account as instructed in the General section ple
 	- If asked if you want to fork the repository or branch, select repository. You want the whole thing.
 - This should take you directly to the copied repo on your own page. If it doesn't go there.
 - Find the green "code" button near the top right hand side and click it.
-- You'll see a link an
-
+- You'll see a link and a copy icon to its right. Copy this to your clipboard.
 - Open up a "Shell":
 	- On Windows this is called a command prompt. You can do this by typing "Command Prompt" into the search bar. 
 	- On Mac this is called the terminal. It can be found in the following directory : apps>utilities>terminal (or by seraching "Terminal" in Spotlight)
-- Leave this running in the background. You'll use it a bit later.
+	- You need to make a personal decision where you wish to store the vault. Documents is not a bad place to do so. 
+		- the `cd` command followed by 
 
 
 
