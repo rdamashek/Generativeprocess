@@ -53,29 +53,10 @@ Assuming that you have a Github account as instructed in the General section ple
 		- `cd` means change directory. Type this followed by a space and the folder you wish to open, or type `cd ..` to go back a level in the folder hierarchy. 
 	- Once you are in the folder you wish to store the vault in, your going to download it.
 	- Type `git clone`, space, and paste the link you copied from your github repo.
-	- If you find an error here, its because you had a shell open when you started the Git install. Just quit the shell, reopen and try again. It shouldn't happen if you've followed this guide precisely, but its worth noting. 
-	- 
+		- If you find an error here, its because you had a shell open when you started the Git install. Just quit the shell, reopen and try again. It shouldn't happen if you've followed this guide precisely, but its worth noting. 
+	- Once the clone operation is complete you can close the shell. You'll be able to look in your documents folder (or alternative location) and see that the Obsidian Vault is there. You can now forget everything you've je
 
 
-
-
-
-
-- Go to your command prompt/terminal and `cd` to the folder you want to download into.
-- Type `git clone *paste copied link*`
-- If you have an error here, you probably just need to reopen your terminal
-
-%%
-Alex got an error saying 
-```
-error: invalid path > How money index
-fatal: unable to checkout working tree
-warning: Clone succeeded, but checkout failed.
-```
-The cloned folder was also empty
-... it was because of question marks
-- `dir` for pc list contents
-%%
 
 - Open up Obsidian
 - In the left ribbon click "Open another vault"
