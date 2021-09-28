@@ -37,13 +37,9 @@ This guide was written based on the Windows installer as it was the use case we 
 - Select install to finish the installation. 
 
 #### Using Git to download files
-- Open up a "Shell"
-
-
-%%
-- On Windows open up the app "command prompt" by typing this into the search bar
-- On Mac open up a terminal by going into apps>utilities>terminal
-%%
+- Open up a "Shell":
+	- On Windows this is called a command prompt. You can do this by typing "Command Prompt" into the search bar. 
+	- On Mac this is called the terminal. It can be found in the following directory : apps>utilities>terminal (or by seraching "Terminal" in )
 
 - On Github find the button in the top right corner named "Fork" and click it.
 	- If asked about repository or branch select repository
