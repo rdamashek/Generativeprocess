@@ -65,14 +65,13 @@ Assuming that you have a Github account as instructed in the General section ple
 
 
 #### Setting up automatic backups
-- In the left hand ribbon select "Settings" and then click the header "Community Plugins"
+- In the left hand ribbon select "Settings" and then click the title "Community Plugins"
 - Turn off safe mode
 - Click the "browse" button
 - Search for "Obsidian Git"
 - Click Install
 - Exit back a step to the "settings" home page (or just enter the settings page again)
-- At the bottom of the left hand menu you'll find a page called "Community plugins"
-- 
+- Click the title "Community Plugins" and you'll now see "Obsidian Git" installed. Turn the switch on and you'll see it as a title option under the header "Plugin options" 
 
 
 - In the community plugins tab scroll down and click the switch to turn on "Obsidian git"
