@@ -48,8 +48,9 @@ Assuming that you have a Github account as instructed in the General section ple
 	- On Windows this is called a command prompt. You can do this by typing "Command Prompt" into the search bar. 
 	- On Mac this is called the terminal. It can be found in the following directory : apps>utilities>terminal (or by seraching "Terminal" in Spotlight)
 	- You need to make a personal decision where you wish to store the vault. Documents is not a bad place to do so. Useful commands to help navigate:
-		- `pwd` lists your current location on Mac, Linux and Unix. It means path working directory. On Windows the command is `dir`.
-		- 
+		- `pwd` lists your current location. It means path working directory.
+		- `ls` and `ls -a` lists the contents of the folder your in. On windows its `dir`.
+		- `cd` means change directory. Type this followed by the folder you wish to open, or type ``
 		
 
 
