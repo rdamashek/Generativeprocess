@@ -13,7 +13,9 @@ Content is stored at the following loctations
 
 Forking the repo to your own profile is best practice. Updates made there will not affect anyone else unless a pull request is made to the org, at which point modifications you have made can be integrated. 
 
-### Long star
+### Detailed setup
+This guide assumes that you are new to computers and essentially coming at this from ground zero. It is consequentially verbose and many of the steps are a one time process enabling yo
+
 
 ### If you do NOT have git installed
 - Install `git` from this link: https://git-scm.com/downloads
