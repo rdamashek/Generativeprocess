@@ -71,10 +71,7 @@ Assuming that you have a Github account as instructed in the General section ple
 - Search for "Obsidian Git"
 - Click Install
 - Exit back a step to the "settings" home page (or just enter the settings page again)
-- Click the title "Community Plugins" and you'll now see "Obsidian Git" installed. Turn the switch on and you'll see it as a title option under the header "Plugin options" 
-
-
-- In the community plugins tab scroll down and click the switch to turn on "Obsidian git"
-- Set preferences in the plugins settings
+- Click the title "Community Plugins" and you'll now see "Obsidian Git" installed. Turn the switch on and you'll see it listed as a title option under the header of "Plugin options" on the left of the window. 
+- Set up your backup preferences. 2 min is a good number. 
 
 - Authorise git for obsidian when it makes the first backup
