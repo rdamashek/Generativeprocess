@@ -1,9 +1,9 @@
 # README
 
-This note explains how to interact and callaborate on our Generative Process, stored as linked markdown files within an Obsidian Vault. 
+This note explains how to interact and callaborate on the Generative Process within Obsidia.
 
 ## General
-- Go to Github.com and sign up for a new account, if you don't already have one.
+- Go to Github.com and  if you don't already have onesign up for a new account.
 - The group work is stored as a repository under the Org "SoCoDoJo": https://github.com/SoCoDoJo
 - The repo on this org that we are working from is called "Generativeprocess": https://github.com/SoCoDoJo/Generativeprocess
 
