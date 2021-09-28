@@ -11,6 +11,9 @@ Content is stored at the following loctations
 	- This a place where other artefacts besides Obsidian can be stored
 - The repo called "Generativeprocess" is an Obsidian vault and contians all the notes from C1: https://github.com/SoCoDoJo/Generativeprocess
 
+Forking the repo to your own profile is best practice. Updates made there will not affect anyone else unless a pull request is made to the org, at which point modifications you have made can be integrated. 
+
+### Long star
 
 ### If you do NOT have git installed
 - Install `git` from this link: https://git-scm.com/downloads
