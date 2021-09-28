@@ -52,7 +52,9 @@ Assuming that you have a Github account as instructed in the General section ple
 		- `ls` and `ls -a` lists the contents of the folder your in. On windows its `dir`.
 		- `cd` means change directory. Type this followed by a space and the folder you wish to open, or type `cd ..` to go back a level in the folder hierarchy. 
 	- Once you are in the folder you wish to store the vault in, your going to download it.
-	- Type `git clone`, space, and paste the link you copied from your github repo.	
+	- Type `git clone`, space, and paste the link you copied from your github repo.
+	- If you find an error here, its because you had a shell open when you started the Git install. Just quit the shell, reopen and try again. It shouldn't happen if you've followed this guide precisely, but its worth noting. 
+	- 
 
 
 
