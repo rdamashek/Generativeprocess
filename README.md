@@ -18,8 +18,9 @@ This guide assumes that you are essentially new to computer science and coming a
 
 This guide was written based on the Windows installer as it was the use case we were working through, though Mac and Linux are probably very similar - if thats what you have and find any discontinuities, your encouraged to record the details and/or ping a peer within our group that can help (Josh for now). If you are using one of these operating systems, it would be great if you can help correct any inaccuracies - contributions in this way are very welcome. 
 
-#### Installing Git
+#### Installing Git (one time thing)
 - Download and install Git from the following link: https://git-scm.com/downloads
+	- If you are on a Mac
 - It will open up a wizard with many confusing options, safe options are documented. If you know what you are doing, feel free to select alternatives. If you don't just tick these boxes and you should be fine. This guide assumes you may contribute to other projects in the future and so recommendations take this into account. You can always change your configuration at a later date.
 - Editor: Any, you will not use them for our purposes. VScode is recommend as an editor for junior developers, but this is not installed on your computer by default. Nano is a safe option.
 - Branch naming: Select override and call it `main`
@@ -28,23 +29,14 @@ This guide was written based on the Windows installer as it was the use case we 
 - HTTPS Transport back end: Use open SSL libraries
 - (Windows install) Configuring line ending conversionss: "Checkout windows style, commit unix style line endings". This is probably MacOS when installing on a Mac, Linux for linux. 
 - (Windows install) Configuring the Terminal emulator: "Use windows console window". On Mac this is probably "Use macOS Terminal".
-- Default behaviour of Git pull: default, fast forward or merge.
+- Default behaviour of Git pull: "default; fast forward or merge".
+- Credential helper: "Git credential manager core"
+- Enable file system caching: Yes.
+- Enable symoblic links: No.
+- Experimental options: None.
+- Select install to finish the installation. 
 
-### If you do NOT have git installed
-- Install `git` from this link: https://git-scm.com/downloads
-	- If prompted for an editor, it doesn't matter for our purposes
-	- When asked about naming branches; select override and call it `main`
-	- When prompted about path dependencies select the option "Git from command line and also third party software"
-	- Bundled SSH
-	- Choosing HTTPS transport back end: Use open SSL libraries
-	- Configuring the line ending conversions: Checkout windows style, commit unix style line endings
-	- Configuring the Terminal emulator: Use windows console window
-	- Default behaviour of Git pull: default, fast forward or merge.
-	- Credential helper: Git credential manager core
-	- Enable file system caching: Yes
-	- Enable symoblic links: No
-	- Experimental options: None
-	- Install 
+
 %%
 - If you have a Mac with Homebrew installed you can type `brew install git` and it will get hold of what you need and run the installation. 
 
