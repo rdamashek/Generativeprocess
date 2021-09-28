@@ -82,4 +82,4 @@ Assuming that you have a Github account as instructed in the General section ple
 YOU ARE NOW SETUP!
 
 #### Other info
-The structure of the vault currently has a lot of menu redundancy. This was just to make give us options in the 
+The structure of the vault currently has a lot of redundant  "index" pages (duplication over scale). This was just to demonstrate possibilities and we may wish to prune some of these. The structure we wish to embrace should probably be deliberatly pruned from a consensus modality, 
