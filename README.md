@@ -14,7 +14,7 @@ Content is stored at the following loctations
 Forking the repo to your own profile is best practice. Updates made there will not affect anyone else unless a pull request is made to the org, at which point modifications you have made can be integrated. 
 
 ### Detailed setup
-This guide assumes that you are new to computers and essentially coming at this from ground zero. It is consequentially verbose and many of the steps are a one time process enabling you to set up your local environment. This guide was written based on the Windows 
+This guide assumes that you are new to computers and essentially coming at this from ground zero. It is consequentially verbose and many of the steps are a one time process enabling you to set up your local environment. This guide was written based on the Windows installer as it was the use case we were working through, Mac and Linux are probably very similar - if thats what you have and find any discontinuities, your encouraged to record the details or ping a peer within our group that can help (Josh for now).
 
 #### Installing Git
 - Download and install Git from the following link: https://git-scm.com/downloads
