@@ -3,6 +3,9 @@
 This note explains how to interact and callaborate on the Generative Process within Obsidia.
 
 ## General Information
+If you don't already have a Github account, please sign up for one. This will allow you to create a copy of the information and modify it without worrying that the edits are permanent. You will also need to install Git if you do not alread have it. Instrutions on this process are below.
+
+### Content
 - Group work is stored in a repository under the GithubOrg "SoCoDoJo": https://github.com/SoCoDoJo
 - The repo on this org that we are working from is called "Generativeprocess": https://github.com/SoCoDoJo/Generativeprocess
 
