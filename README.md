@@ -19,8 +19,12 @@ This guide assumes that you are new to computers and essentially coming at this 
 #### Installing Git
 - Download and install Git from the following link: https://git-scm.com/downloads
 - It will open up a wizard with many confusing options, safe options are documented. If you know what you are doing, feel free to select alternatives. If you don't just tick these boxes and you should be fine. This guide assumes you may contribute to other projects in the future and so recommendations take this into account. You can always change your configuration at a later date.
-- Editor: Any, you will not use them for our purposes. VScode is recommend as an editor for junior developers, but this is not installed on your computer by default. Nano is 
-
+- Editor: Any, you will not use them for our purposes. VScode is recommend as an editor for junior developers, but this is not installed on your computer by default. Nano is a safe option.
+- Branch naming: Select override and call it `main`
+- Path dependencies: Git from command line and also third party software"
+- SSH: bundled SSH
+- HTTPS Transport back end: Use open SSL libraries
+- 
 
 ### If you do NOT have git installed
 - Install `git` from this link: https://git-scm.com/downloads
