@@ -1,6 +1,6 @@
 # README
 
-This note explains how to interact and callaborate on the Generative Process within Obsidia.
+This note explains how to interact and callaborate on the Generative Process within Obsidian.
 
 ## General Information
 If you don't already have a Github account, please sign up for one. This will allow you to create a copy of the information and modify it without worrying that the edits are permanent. You will also need to install Git if you do not alread have it. Instrutions on this process are below.
@@ -82,4 +82,4 @@ Assuming that you have a Github account as instructed in the General section ple
 YOU ARE NOW SETUP!
 
 #### Other info
-The structure of the vault currently has a lot of redundant  "index" pages (duplication over scale). This was just to demonstrate possibilities and we may wish to prune some of these. The structure we wish to embrace should probably be deliberatly pruned from a consensus modality, 
+The structure of the vault currently has a lot of redundant  "index" pages (duplication over scale). This was just to demonstrate possibilities and we may wish to prune some of these. The structure we wish to embrace should be deliberatly pruned by Ronens dictation or if he wishes a consensus modality. 
