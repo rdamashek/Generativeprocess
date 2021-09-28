@@ -37,9 +37,10 @@ This guide was written based on the Windows installer as it was the use case we 
 - Select install to finish the installation. 
 
 #### Using Git and Github to download files
-Assuming that you have a Github account as instructed in the General section please go to
-- On Github find the button in the top right corner named "Fork" and click it.
-	- If asked about repository or branch select repository
+Assuming that you have a Github account as instructed in the General section please go to the repo where the notes are stored: https://github.com/SoCoDoJo/Generativeprocess
+
+- Find the button in the top right corner of Github named "Fork" and click it to make a copy of the files to your own profile. This will become your own space. 
+	- If asked if you want to fork the repository or branch, select repository. You want the whole thing, not just 
 
 
 - Open up a "Shell":
