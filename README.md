@@ -40,8 +40,10 @@ This guide was written based on the Windows installer as it was the use case we 
 Assuming that you have a Github account as instructed in the General section please go to the repo where the notes are stored: https://github.com/SoCoDoJo/Generativeprocess
 
 - Find the button in the top right corner of Github named "Fork" and click it to make a copy of the files to your own profile. This will become your own space. 
-	- If asked if you want to fork the repository or branch, select repository. You want the whole thing, not just 
-
+	- If asked if you want to fork the repository or branch, select repository. You want the whole thing.
+- This should take you directly to the copied repo on your own page. If it doesn't go there.
+- Find the green "code" button near the top right hand side and click it.
+- You'll see a link an
 
 - Open up a "Shell":
 	- On Windows this is called a command prompt. You can do this by typing "Command Prompt" into the search bar. 
@@ -51,9 +53,8 @@ Assuming that you have a Github account as instructed in the General section ple
 
 
 
-- Now go to the repo on your personal page 
-- Find the green "code" button
-- Copy the address
+
+
 - Go to your command prompt/terminal and `cd` to the folder you want to download into.
 - Type `git clone *paste copied link*`
 - If you have an error here, you probably just need to reopen your terminal
