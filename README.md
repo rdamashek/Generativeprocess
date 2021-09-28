@@ -76,6 +76,10 @@ Assuming that you have a Github account as instructed in the General section ple
 	- 2 min is a good number for auto pull and backup options. 
 	- Pull updates on startup: on
 	- Pull changes before push: on
-	- Disable notifications: on (otherwise you get a pop up every )
+	- Disable notifications: on (otherwise you get a pop up every 2 min)
+	- Authorise git for obsidian with your computer password when it makes the first backup and prompts for this. 
 
-- Authorise git for obsidian when it makes the first backup
+YOU ARE NOW SETUP!
+
+#### Other info
+The structure of the vault currently has a lot of menu redundancy. This was just to make give us options in the 
