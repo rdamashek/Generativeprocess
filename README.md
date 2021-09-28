@@ -20,7 +20,7 @@ This guide was written based on the Windows installer as it was the use case we 
 
 #### Installing Git (one time thing)
 - Download and install Git from the following link: https://git-scm.com/downloads
-	- If you are on a Mac you can open a terminal and type `brew install git`. This has advantages to an installer that will become apparent later in your journey if you choose to keep learning the inner workings of your machine (dotfiles). Either option is fine for now though.
+	- If you are on a Mac you can optionally open up a terminal and type `brew install git`. This has advantages to an installer that will become apparent later in your journey if you choose to keep learning the inner workings of your machine (dotfiles). Either option is fine for now though, and the link is probably easier if your fresh.
 - It will open up a wizard with many confusing options, safe options are documented. If you know what you are doing, feel free to select alternatives. If you don't just tick these boxes and you should be fine. This guide assumes you may contribute to other projects in the future and so recommendations take this into account. You can always change your configuration at a later date.
 - Editor: Any, you will not use them for our purposes. VScode is recommend as an editor for junior developers, but this is not installed on your computer by default. Nano is a safe option.
 - Branch naming: Select override and call it `main`
@@ -36,10 +36,11 @@ This guide was written based on the Windows installer as it was the use case we 
 - Experimental options: None.
 - Select install to finish the installation. 
 
+#### Using Git to download files
+- Open up a "Shell"
+
 
 %%
-- If you have a Mac with Homebrew installed you can type `brew install git` and it will get hold of what you need and run the installation. 
-
 - On Windows open up the app "command prompt" by typing this into the search bar
 - On Mac open up a terminal by going into apps>utilities>terminal
 %%
