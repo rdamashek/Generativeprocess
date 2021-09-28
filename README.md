@@ -5,9 +5,11 @@ This note explains how to interact and callaborate on the Generative Process wit
 ## General Information
 If you don't already have a Github account, please sign up for one. This will allow you to create a copy of the information and modify it without worrying that the edits are permanent. You will also need to install Git if you do not alread have it. Instrutions on this process are below.
 
-### Content
-- Group work is stored in a repository under the GithubOrg "SoCoDoJo": https://github.com/SoCoDoJo
-- The repo on this org that we are working from is called "Generativeprocess": https://github.com/SoCoDoJo/Generativeprocess
+### Quick start
+Content is stored at the following loctations
+- The Org is called "SoCoDoJo": https://github.com/SoCoDoJo
+	- This a place where other artefacts besides Obsidian can be stored
+- The repo called "Generativeprocess" is an Obsidian vault and contians all the notes from C1: https://github.com/SoCoDoJo/Generativeprocess
 
 
 ### If you do NOT have git installed
