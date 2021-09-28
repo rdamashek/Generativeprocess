@@ -64,12 +64,14 @@ Assuming that you have a Github account as instructed in the General section ple
 - Select the vault you downloaded and Obsidian will populate with notes.
 
 
-#### Setting up auto backup
+#### Setting up automatic backups
 - In the left hand ribbon select "Settings" > "Community Plugins"
 - Turn off safe mode
-- Click browse
+- Click the "browse" button
 - Search for "Obsidian Git"
 - Click Install
+- Exit back to "settings" home page
+- At the bottom of the left hand menue you'll find a header 
 - In the community plugins tab scroll down and click the switch to turn on "Obsidian git"
 - Set preferences in the plugins settings
 
