@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0de6877438c2b39b",
+        "id": "45a2e1e73168d7ae",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Shared Space/Digital Space/The Space/The Space - Index.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -84,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shared Space/Digital Space/The Space/The Space - Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Shared Space/Digital Space/The Space/The Space - Index.md"
+              }
             }
           }
         ]
@@ -109,10 +115,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0de6877438c2b39b",
+  "active": "45a2e1e73168d7ae",
   "lastOpenFiles": [
-    "Shared Space/Digital Space/The Space/GENSEQ - A Morphing Structure/GENSEQ - A Morphing Structure - Index.md",
     "Shared Space/Digital Space/The Space/The Space - Index.md",
+    "Shared Space/Digital Space/The Space/GENSEQ - A Morphing Structure/GENSEQ - A Morphing Structure - Index.md",
     "Shared Space/Digital Space/Digital Space Index.md",
     "Shared Space/Shared Space Index.md",
     "Shared Space/Digital Space/Context/GENSEQ - Context Index.md",
