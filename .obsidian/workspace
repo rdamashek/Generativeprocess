@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shared Space/Digital Space/Context/Crews.md",
+            "file": "Shared Space/Digital Space/Context/GENSEQ - Context Index.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shared Space/Digital Space/Context/Crews.md",
+                "file": "Shared Space/Digital Space/Context/GENSEQ - Context Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shared Space/Digital Space/Context/Crews.md"
+                "file": "Shared Space/Digital Space/Context/GENSEQ - Context Index.md"
               }
             }
           }
@@ -117,6 +117,8 @@
   },
   "active": "cf9c19ed00aa70e0",
   "lastOpenFiles": [
+    "Shared Space/Digital Space/Context/GENSEQ - Context Index.md",
+    "Shared Space/Digital Space/Context/Digital Space.md",
     "Shared Space/Digital Space/Context/Crews.md",
     "Test 1.md",
     "Shared Space/Digital Space/Foundations/Microsolidarity.md",
@@ -124,8 +126,6 @@
     "Shared Space/Digital Space/Foundations/Felt Experience.md",
     "Shared Space/Digital Space/Foundations/Experimentation.md",
     "Shared Space/Digital Space/Context/Strangers.md",
-    "Shared Space/Digital Space/Context/Test.md",
-    "Shared Space/Digital Space/Context/Stay.md",
-    "Shared Space/Digital Space/Context/GENSEQ - Context Index.md"
+    "Shared Space/Digital Space/Context/Test.md"
   ]
 }
