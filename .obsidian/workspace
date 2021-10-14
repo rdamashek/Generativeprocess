@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cf9c19ed00aa70e0",
+        "id": "0de6877438c2b39b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shared Space/Digital Space/Context/Strangers.md",
+            "file": "Shared Space/Shared Space Index.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396
+    "width": 397
   },
   "right": {
     "id": "eb7596eb37ae15fd",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shared Space/Digital Space/Context/Strangers.md",
+                "file": "Shared Space/Shared Space Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shared Space/Digital Space/Context/Strangers.md"
+                "file": "Shared Space/Shared Space Index.md"
               }
             }
           }
@@ -115,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf9c19ed00aa70e0",
+  "active": "0de6877438c2b39b",
   "lastOpenFiles": [
-    "Shared Space/Digital Space/Context/Strangers.md",
+    "Shared Space/Shared Space Index.md",
     "Shared Space/Digital Space/Context/GENSEQ - Context Index.md",
+    "Shared Space/Digital Space/Context/Stay.md",
+    "Shared Space/Digital Space/Context/Strangers.md",
     "Shared Space/Digital Space/Context/Digital Space.md",
     "Shared Space/Digital Space/Context/Crews.md",
     "Test 1.md",
     "Shared Space/Digital Space/Foundations/Microsolidarity.md",
     "Shared Space/Digital Space/Foundations/GENSEQ - Foundations Index.md",
-    "Shared Space/Digital Space/Foundations/Felt Experience.md",
-    "Shared Space/Digital Space/Foundations/Experimentation.md",
-    "Shared Space/Digital Space/Context/Test.md"
+    "Shared Space/Digital Space/Foundations/Felt Experience.md"
   ]
 }
